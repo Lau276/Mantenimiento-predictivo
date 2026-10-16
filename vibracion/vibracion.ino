@@ -8,8 +8,8 @@
 // WIFI (mismos datos que tu boot.py). Si no conecta, crea su propia red.
 // ====================================================================
 const char* WIFI_SSID = "te";
-const char* WIFI_PASS = "Eliza123";
-const char* AP_SSID   = "Vibracion-ESP32";   // red propia (clave: 12345678)
+const char* WIFI_PASS = "123456789";
+const char* AP_SSID   = "Mantenimiento_predictivo_ESP32";   // red propia (clave: 12345678)
 
 // ====================================================================
 // PINES (ESP32-S3) Y REGISTROS
