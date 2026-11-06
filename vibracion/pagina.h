@@ -2,7 +2,7 @@
 const char PAGINA[] PROGMEM = R"rawliteral(<!DOCTYPE html>
 <html lang="es"><head><meta charset="UTF-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
-<title>VibraMon · Monitor de vibración</title>
+<title>Mantenimiento Predictivo · Monitor de vibración</title>
 <style>
 :root{--bg:#eef1f3;--pn:#fff;--ink:#14212b;--mut:#5b6b78;--ln:#d5dce1;--ac:#0e6b7a;--sp:#0e6b7a;--za:#2f9e6e;--zb:#8fb63a;--zc:#e0a21b;--zd:#d6452f}
 @media(prefers-color-scheme:dark){:root{--bg:#0f171d;--pn:#16212a;--ink:#e6edf1;--mut:#93a4b0;--ln:#2a3945;--ac:#4fc1d3;--sp:#4fc1d3}}
