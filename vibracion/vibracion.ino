@@ -7,7 +7,7 @@
 // ====================================================================
 // WIFI (mismos datos que tu boot.py). Si no conecta, crea su propia red.
 // ====================================================================
-const char* WIFI_SSID = "te";
+const char* WIFI_SSID = "hola";
 const char* WIFI_PASS = "123456789";
 const char* AP_SSID   = "Mantenimiento_predictivo_ESP32";   // red propia (clave: 12345678)
 
